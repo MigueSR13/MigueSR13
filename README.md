@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MigueSR13
-- 👀 I’m interested in Languages, C++, Python, SQL, Data Science, Applications from Desktop and Cloud Computing.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C, C++, Python, SQL, Data Science, Applications from Desktop and Cloud Computing.
+- 🌱 I’m currently learning Allwats All of the above 😅.
 - 📫 How to reach me ...
 
 <!---
